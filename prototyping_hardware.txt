@@ -1,0 +1,35 @@
+Prototyping hardware
+	Micro-controllers
+		Cheap, small, easily accessible
+	Arduino
+		Wiring language
+		setup() - does init
+		loop() - called repeatedly while it has power
+		digitalWrite, delay, etc
+	Hardware toolkits
+		Components: small, prewired, simple/standard electrical interface
+Infrastructure: Connection conventions, standardized connectors, software infrastructure
+Examples:
+	Phidgets: PC connection via USB
+		Simple object in VB, create like any UI
+		Advantages:
+			Minimal electronics knowledge needed
+			Reuse existing programming skills
+			Lots of components
+		Disadvantages:
+			Hard to build small things when using USB
+			VB, for real?
+	Calder: small components, smaller connectors, short range wireless
+	d.tools: also smaller components
+		No wireless
+		Simplified “visual” programming
+			But, can include real code
+			User testing
+	BOXES: Attempt to make it as easy to prototype hardware as UI
+		Build with cardboard, thumbtacks, tin foil and masking tape
+		Logic: map actions to existing program
+		Touch via capacitive sensing
+		Only a single input type and no HW side out
+“Cutter” interface
+	Small, simple and quick
+		Music player in ~1:40

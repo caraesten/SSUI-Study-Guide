@@ -1,0 +1,32 @@
+Animation
+	Why?
+		Feeling of reality and livelyness
+		Visual continuity, perception of change
+		Direct attention
+	Three principles
+		Solidity
+			Appear solid
+			No teleportation
+			Motion blur
+			Squash and stretch
+			Follow through/ secondary action
+		Exaggeration
+			Anticipation
+			Squash and stretch
+			Follow through
+		Reinforcement
+			Slow in and slow out
+			Movement in arcs
+			3 parts of motion
+				Anticipation, motion, follow through
+			Not normally disjoint (overlaps)
+	Abstracted via transitions
+		Object being animated
+		Time interval
+		Trajectory
+			Curve (2d space, usually)
+Pacing function (time interval, determines pacing along curve, slow in slow out)
+	To create a movement
+		Schedule a transition
+			transition_start(), transition_step(), transition_end()
+		Typical OS can’t deliver uniform time intervals

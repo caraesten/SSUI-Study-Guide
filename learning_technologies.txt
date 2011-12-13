@@ -1,0 +1,43 @@
+Learning technologies
+	What makes it well designed?
+		Analysis of human performance data
+		Avoid expert blind spot
+	What is ITS?
+		Learning by doing, w/ step by step guidance
+		Be more flexible, diagnostic, adaptive, individualized
+		Use AI techniques
+	General ideas
+		A system that can solve problems in the various ways students can
+		Figure out mistakes /etc
+	Direct manipulations
+		Ideas:
+			Promotes implicit learning, making i more difficult to know when 			knowledge is relevant.
+			W/ more difficult interfaces, cost of action is increased. 				Advantageous to make fewer moves
+			Only certain types of difficulty improve performance (making it 			cognitively more difficult encourages planning)
+		Learning w/ direct interaction can make the situation worse
+			Good interfaces != good learning
+		Proceed with HCI methods w/ caution
+	Visual knowledge
+		Neither purely visual knowledge nor purely verbal knowlege is sufficient
+		Need integrated visual-verbal knowledge
+			Both works when the instruction supports learners to coordinate 			info from both sources
+	What might help?
+		Reduce visual cognitive load
+		Greater attention to key features
+		Support interfaces using visual info
+	Measure:
+		Change over time
+			(pre-post test)
+	Results:
+		Diagrams help (long term retention of knowledge, less self-explanation 			errors, less confusion after a correct answer)
+		Integrated interface supports visual-verbal learning
+	Integrated text = better learning than separated text
+	Concurrent narration was even better
+	Spatial contiguity principle holds for static illustrations and text
+	Contrast
+		Golightly: “easier” interface may support better performace but lead to 		poor learning
+		Aleven: “easier” (integrated) interface leads to more learning
+		Interface should reduce extraneous cognitive load (eg, mapping between 			separated representations)
+	Should support useful reflection, and avoid shallow strategies
+		Golightly: harder interface does that
+		B&A: easier interface

@@ -1,0 +1,27 @@
+Two-handed interaction
+	Three key observations:
+		Non-dominant hand sets context for dominant
+		Tendency for larger scale and lower frequency movements for non-dominant hand
+		Motion by non-dominant hand tend to precede those of dominant hand
+	Lenses
+		In context interaction
+			Little/no shift in focus of attention/movement
+			Alternate views in context and on demand
+			Structured well for 2 handed input
+			Alternative to more traditional modes
+			Clear affordance for meaning
+		Parent forwards damage to lenses
+			Typically change any damage that overlaps into whole-lens-area damage
+		Output
+			Distinct drawing traversal
+			Low-level modification of output (ambush approach)
+		Things that help
+			StartInteractorDraw
+			EndInteractiorDraw
+	Tape-drawing
+	Tool-stone
+		Multiple degree of freedom
+			Rotate, flip, tilt
+			Bar on one side
+		Implemented with Wacom Tablet
+		Better use for non-dominant hand than pointing or clicking

@@ -1,0 +1,18 @@
+Attention
+	Maximize: value from information - attentional costs
+	CIA model: (Communicative ability * Attention cost) - (importance)
+		Benefit - cost
+	Social phenomena
+		Most predictive sensor for interruption - someone talking
+		Programmer interruption: 75.4%
+			Predictive new-IM response time: 90.1%
+		Negotiated approach
+			6-step process
+				Sighting
+				Orientation
+				Distant saluatation (head toss)
+				Approach (head dip, look away)
+				End of approach (close distance, stop)
+				Close salutation (facing, utterance)
+				Reorientation (90deg conversational stance)
+			Information could be done similarly, salience of display

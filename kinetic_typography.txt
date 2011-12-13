@@ -1,0 +1,38 @@
+Kinetic typography
+	Film: Easier to convey emotion, better to tell stories
+	Engage users via these methods from film
+	Powerful, BUT: under exploited
+		Not usually used with interactivity
+		Not well explored or understood
+		Needs tools
+	Express:
+		Emotion, characters, then more
+	Can only be manipulated so far (sad-> angry, not sad->happy)
+	Tone of voice:
+		Paralinguistic
+			Doesn’t affect meaning
+			Vocal qualities
+			Hard to express
+		Linguistic / Prosodic
+			Can effect emphasis and/or meaning
+	Prosodic expressions / analogs
+		Pitch - large upward or downward movement
+		Loudness - chagnes in weight or size
+		Tempo - movements with human meaning
+	Can manipulate
+		Recognition
+			Position, typeface, color (who’s talking)
+		Alignment
+			Attachment
+				Following in time and space (view attaches to some characters)
+			Subjective access
+				How much we know about characters life/emotion
+		Allegiance
+			Moral response to character
+	Rapid Serial Visual Presentation
+		One element at a time (serially)
+			Can increase reading speed (eyes don’t have to move)
+		Small screen displays
+			Trade time/space
+			Same or better performance in much less space (but can be tiring)
+	Lots of potential

@@ -1,0 +1,17 @@
+Cognitive Tutor Authoring Tools
+	Results: 
+		50-100% better on problem solving/representation use
+		15-25% better on standardized tests
+	Problem:
+		200 dev hours per hour of instruction
+		Requires PhD level cog sci and AI programmers
+	CTAT: targets people with a bit of technological understanding
+		But not hard to do
+		Drag and drop
+			Programming by demonstration
+	Example tracing tutors (Pseudo-tutors)
+		Easier to build
+		Generalized examples to guide students
+	Basic idea:
+		Student must complete a path through a graph
+		Example flexibly compares progress against a graph

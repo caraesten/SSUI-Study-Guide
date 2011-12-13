@@ -1,0 +1,42 @@
+Context-aware interaction
+	Context - situational elements relevant to interaction between
+		User,
+		App,
+		Environment
+
+	Context-awareness
+		Situationally appropriate
+		Applications adapting to context
+		Increasing value to users
+	Implicit sensing
+	Machine learning
+		Used for predictive actions
+	Serious issues: lack of control & privacy
+	Issues:
+		Feedback
+		Control
+		Privacy
+		Overload
+	Enactors
+		Expose rules and parameters
+		Enable UI designers
+		Create better feedback & control interfaces
+	Intelligibility
+		Explains how systems work
+		Context-dependent explanations
+		Explains multiple inference models
+		Strategy
+			Explanations to inform control
+			Explanations in simple terms
+			Aggregating explanations
+			Visualizing explanations
+		Usability study
+		Findings:
+			Info overload
+			Prior knowledge & relatability
+			Different strategies in using intelligibility
+			Blame shifting
+		Recommendations
+			Aggregate explanations with simpler components
+			Non-mechanistic explanations
+			Streamline questioning
