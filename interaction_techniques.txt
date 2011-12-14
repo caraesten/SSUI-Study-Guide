@@ -1,0 +1,33 @@
+Interaction techniques
+	Fitts' law:
+		Time = A + B*log2(Dist/Size + 0.5)
+	Original interactors:
+		Buttons
+		Scroll-bars
+		Radio-buttons
+		Check-boxes
+		Text-entry fields
+		Drop-down menus
+		File input dialog
+	Second release of MacOS added:
+		Lists (Single/multiple selection)
+		Textual lists
+		Hierarchical menus
+		Window maximize box
+	Since then:
+		Tabbed dialogs
+		Hierarchical lists
+		Combo boxes
+	WIMP: Windows, Icons, Menus, Pointers
+	Pie menus:
+		Hard to do hierarchy
+		Affordances not great
+		Harder to implement label drawing
+	Beating Fitts' law
+		Avoid problem
+		Use non-pointing device
+			Shortcuts, fixed buttons
+			Mouse wheel
+		Make things "act" bigger
+			Map nearby non-legal actions to legal ones "snapping"
+		
