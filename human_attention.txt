@@ -1,6 +1,6 @@
 Attention
 	Maximize: value from information - attentional costs
-	CIA model: (Communicative ability * Attention cost) - (importance)
+	CIA model: (Communicative ability * importance) - (attention cost)
 		Benefit - cost
 	Social phenomena
 		Most predictive sensor for interruption - someone talking
