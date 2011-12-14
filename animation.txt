@@ -24,6 +24,7 @@ Animation
 		Object being animated
 		Time interval
 		Trajectory
+			Pacing function + path
 			Curve (2d space, usually)
 Pacing function (time interval, determines pacing along curve, slow in slow out)
 	To create a movement
