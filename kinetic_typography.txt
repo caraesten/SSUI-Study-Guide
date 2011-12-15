@@ -19,7 +19,7 @@ Kinetic typography
 		Pitch - large upward or downward movement
 		Loudness - chagnes in weight or size
 		Tempo - movements with human meaning
-	Can manipulate
+	Can manipulate (character)
 		Recognition
 			Position, typeface, color (who’s talking)
 		Alignment
@@ -29,6 +29,10 @@ Kinetic typography
 				How much we know about characters life/emotion
 		Allegiance
 			Moral response to character
+	Can manipulate (typography)
+		Visual
+		Spatial
+		Typographic
 	Rapid Serial Visual Presentation
 		One element at a time (serially)
 			Can increase reading speed (eyes don’t have to move)
